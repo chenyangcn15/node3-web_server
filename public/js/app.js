@@ -1,5 +1,5 @@
 console.log('Client side javascript file is loaded!')
-
+console.log('restart to learn nodejs')
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
 //     response.json().then((data) => {
 //         console.log(data)
